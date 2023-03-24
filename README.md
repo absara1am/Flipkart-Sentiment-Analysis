@@ -13,7 +13,7 @@ Dataset
 The dataset used in this project is available in the following GitHub repository: https://github.com/amankharwal/Website-data/blob/master/flipkart_reviews.csv
 
 Project Files
-flipkart_reviews_sentiment_analysis.ipynb: This file contains the code for sentiment analysis of Flipkart reviews.
+Flipkart Reviews Sentiment Analysis using Python.ipynb: This file contains the code for sentiment analysis of Flipkart reviews.
 
 Installation
 To run the code in this project, you must have the following libraries installed:
@@ -30,7 +30,7 @@ You can install them using pip in the command line:: pip install pandas seaborn 
 How to Use
 1.Clone or download the repository to your local machine.
 2.Install the required libraries as mentioned above.
-3.Run the flipkart_reviews_sentiment_analysis.ipynb file in Jupyter Notebook or any other compatible environment.
+3.Run the Flipkart Reviews Sentiment Analysis using Python.ipynb file in Jupyter Notebook or any other compatible environment.
 4.The code will load the dataset, clean it, and perform sentiment analysis, displaying the output in the form of visualizations.
 
 License
